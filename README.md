@@ -38,13 +38,5 @@
     <td></td>
     <td><img src="https://img.shields.io/badge/googleapps-4173c9.svg?style=for-the-badge&logo=GoogleAppsScript&logoColor=white" alt="heroku" width="90" height="28"></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </tbody>
 </table>
