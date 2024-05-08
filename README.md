@@ -1,15 +1,15 @@
-# Tech Stack
+# TECH STACK
 
 
 <table>
 <thead>
   <tr>
-    <th>Backend</th>
-    <th>Frontend</th>
-    <th>Databases</th>
-    <th>Version Control</th>
-    <th>Containerization</th>
-    <th>Data</th>
+    <th>BACKEND</th>
+    <th>FRONTEND</th>
+    <th>DATABASES</th>
+    <th>VERSION CONTROL</th>
+    <th>CONTAINERISATION</th>
+    <th>DATA PROCESSING</th>
   </tr>
 </thead>
 <tbody>
@@ -31,7 +31,7 @@
     <td><img src="https://img.shields.io/badge/Postman-fc6d26?style=for-the-badge&logo=Postman&logoColor=white" alt="git" width="90" height="28"></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" width="110" height="28"></td>
+    <td></td>
     <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css" width="80" height="30"></td>
     <td></td>
     <td></td>
