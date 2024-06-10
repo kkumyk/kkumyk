@@ -28,7 +28,7 @@
     <td></td>
     <td><img src="https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white" alt="git" width="70" height="28"></td>
     <td></td>
-    <td><img src="https://img.shields.io/badge/Postman-fc6d26?style=for-the-badge&logo=Postman&logoColor=white" alt="git" width="90" height="28"></td>
+    <td><img src="https://img.shields.io/badge/Postman-fc6d26?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" width="90" height="28"></td>
   </tr>
   <tr>
     <td></td>
@@ -36,7 +36,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td><img src="https://img.shields.io/badge/googleapps-4173c9.svg?style=for-the-badge&logo=GoogleAppsScript&logoColor=white" alt="heroku" width="90" height="28"></td>
+    <td><img src="https://img.shields.io/badge/googleapps-4173c9.svg?style=for-the-badge&logo=GoogleAppsScript&logoColor=white" alt="Google Apps Script" width="90" height="28"></td>
   </tr>
 </tbody>
 </table>
