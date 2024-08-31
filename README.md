@@ -38,6 +38,6 @@
   <tr>
     <td><img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt&logoColor=orange" alt="dbt" width="" height="30"></td></td><td></td><td></td><td></td>
   </tr>
-  </td><td></td><td></td><td></td><td></td>
+  <!-- </td><td></td><td></td><td></td><td></td> -->
 </tbody>
 </table>
